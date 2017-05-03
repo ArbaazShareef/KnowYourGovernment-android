@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="Location">No Location</string>
+    <string name="ListviewTitle">Title</string>
+    <string name="ListViewName">Name</string>
+    <string name="Connection">No Network Connection</string>
+    <string name="nocon">Data cannot be accessed/loaded \n without an internet connection.</string>
+</resources>
